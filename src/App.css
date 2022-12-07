@@ -1,0 +1,29 @@
+.redidents-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1480px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.App{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; */
+    background-image: url('/imgs/portadarickymorty.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1_center,
+ .form_center, .redidents-container, 
+ .btn_center, .input_cente {
+   display:flex;
+   
+    
+}
